@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68362b95-312e-485b-99e1-a426a9252782" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductCrawl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Client/IUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Client/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Client/start.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/manager/IManagerFacade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/manager/IManagerFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/manager/IkeyFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/manager/ManagerFacade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/manager/ManagerProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/manager/SortByCost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/manager/SortById.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/manager/SortByName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/Candy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/IProductFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/ProductFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/ProductTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/Samsung.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/product/iPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/Converter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/ConverterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/Crawler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/Exporter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/IConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/IExporter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/ReaderStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/Storage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/WriteStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/storage/testCrawler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/managerProduct.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/IUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/manager" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/product" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manager/IManagerFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/manager/IManagerFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manager/IkeyFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/manager/IkeyFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product/ProductTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/product/ProductTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/storage/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/storage/Converter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cRJHPrABaZscPXEpZNdk0bItlu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68362b95-312e-485b-99e1-a426a9252782" name="Default Changelist" comment="" />
+      <created>1590485383414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590485383414</updated>
+      <workItem from="1590485387425" duration="143000" />
+      <workItem from="1598887309182" duration="97000" />
+      <workItem from="1598921398326" duration="706000" />
+      <workItem from="1598922763872" duration="151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598922915455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598922915455" />
+  </component>
+</project>
